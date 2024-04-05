@@ -16,6 +16,7 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
+https://epg.pw/stream/1aa3b33ccb9ab5eeba580c7824d1ebb9a526e02537f5c7ac8215ac568360e437.m3u8
 https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
@@ -25,8 +26,11 @@ https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 https://epg.pw/stream/b5623236fec5328e33430865dd3f496d5d0677531de9198706ea6ebf30261c7c.m3u8
 https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
+https://epg.pw/stream/3cb75e0b9251d66da5f082623c8776cc8bf61361f937192f55e791c8be6b63f3.ctv
 https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
+https://epg.pw/stream/0a799f775db3737cd09c15f137b45c5030c998801108cceff2658025d03f346b.m3u8
+https://epg.pw/stream/92f40f9ba69c7bf39cb461bac90b65992eb22d9114f10448540dd36ea2f87ee2.m3u8
 https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
