@@ -274,7 +274,7 @@ https://epg.pw/stream/91664c3255fc3b9a327e5fa77c1148f1ccf6b43b84be012f84ec127c57
 #EXTINF:-1 tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="地方频道",上海教育
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="地方频道",五星体育
-
+https://stream.freetv.fun/wu-xing-ti-yu-4.ctv
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="地方频道",东方影视
 
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="地方频道",东方财经
@@ -368,3 +368,21 @@ https://epg.pw/stream/91664c3255fc3b9a327e5fa77c1148f1ccf6b43b84be012f84ec127c57
 #EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视频道",CGTN西语
 
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育频道",CCTV-5 体育
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41140/index.m3u8
+http://23.237.196.98:680/live/CCTV5HD/hls.m3u8
+https://stream.freetv.fun/cctv5-60.ctv
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="体育频道",CCTV-5+ 体育赛事
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="体育频道",五星体育
+https://stream.freetv.fun/wu-xing-ti-yu-4.ctv
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育频道",劲爆体育
+https://stream.freetv.fun/jing-bao-ti-yu-9.ctv
+#EXTINF:-1 tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://live.fanmingming.com/tv/北京体育.png" group-title="体育频道",劲爆体育
+https://stream.freetv.fun/bei-jing-ti-yu-xiu-xian-3.ctv
+https://stream.freetv.fun/bei-jing-ti-yu-xiu-xian-1.ctv
+https://stream.freetv.fun/bei-jing-ti-yu-xiu-xian-2.ctv
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="体育频道",广东体育
+https://stream.freetv.fun/yan-dong-ti-yu-1080p-1.ctv
